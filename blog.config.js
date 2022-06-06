@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Saurav Kumar's blog',
+  title: 'the blog of saurav',
   author: 'Saurav Kumar',
   email: 's@floorgang.xyz',
   link: 'https://web3web.vercel.app',
